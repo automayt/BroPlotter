@@ -1,6 +1,6 @@
 BroPlotter
 ===========
-Jason Smith
+-Jason Smith
 
 
 Generates visualizations from Bro logs
