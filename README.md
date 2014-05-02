@@ -22,7 +22,7 @@ forceopacity
 - source = any bro field value
 - target = any bro field value
 - value = any bro field value that is an integer
-=================================================================================
+
 
 
 --D3 Chart Examples--
